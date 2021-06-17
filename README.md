@@ -1,0 +1,2 @@
+# SimpleModbot
+Simple mod bot
