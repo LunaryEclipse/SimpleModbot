@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lunar Eclipse</h1>
-<h3 align="center">A discord dev team/server team</h3>
+# Discord-Buttons Example/Setup/Installation
+## 👥 | Contact
+<a href="https://www.youtube.com/channel/UCxxK71QFN4_PrBhCFmH2Jmw"><img widhtsrc="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a></br>
+<a href="https://discord.gg/lunary"><img src="https://discord.com/api/guilds/848272618971987988/widget.png?style=banner1"></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lunaryeclipse" alt="lunaryeclipse" /></a> </p>
-
-- 🔭 I’m currently working on [The simple modbot](https://github.com/LunaryEclipse/SimpleModbot)
-
-- 🌱 I’m currently learning **c++ ,css, python**
-
-- 📫 How to reach me **https://discord.gg/lunary**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
