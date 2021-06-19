@@ -1,4 +1,4 @@
-# Discord-Buttons Example/Setup/Installation
+# Simple Mod Bot
 ## 👥 | Contact
 <a href="https://www.youtube.com/channel/UCxxK71QFN4_PrBhCFmH2Jmw"><img widhtsrc="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube%402x.png"></a></br>
 <a href="https://discord.gg/lunary"><img src="https://discord.com/api/guilds/848272618971987988/widget.png?style=banner1"></a>
